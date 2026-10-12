@@ -5,4 +5,5 @@
 - **Lớp:** ĐHCNTT24A-IT
 - **Mục tiêu:** Thực hành: Pull Request đầu tiên
 
-![Kết quả sau khi chạy "dotnet run" chạy không lỗi](KQ-anh1.png)(KQ-anh2.png)
+![Kết quả sau khi chạy "dotnet run" chạy không lỗi](KQ-anh1.png)
+![](KQ-anh2.png)
